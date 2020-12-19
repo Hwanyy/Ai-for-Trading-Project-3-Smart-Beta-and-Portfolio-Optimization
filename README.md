@@ -26,4 +26,4 @@
 * [Project 3. Smart Beta and Portfolio Optimization](https://nbviewer.jupyter.org/gist/Hwanyy/6d51edd37a365d025df883d0ef8a4a27)
 
 ## 사용된 라이브러리들과 version (Dependencies)
-* [requirements.txt]()
+* [requirements.txt](https://github.com/Hwanyy/Ai-for-Trading-Project-3-Smart-Beta-and-Portfolio-Optimization/blob/main/requirements.txt)
