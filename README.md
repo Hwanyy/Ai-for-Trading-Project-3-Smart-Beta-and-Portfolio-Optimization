@@ -23,7 +23,7 @@
 * 원하는 빈도로 포트폴리오 가중치를 재조정하고 이를 위한 비용 또는 연간 매출액을 반환하는 방법을 구현한다.
 
 ## Project3 - Jupyter Notebook
-* [Project 3. Smart Beta and Portfolio Optimization]()
+* [Project 3. Smart Beta and Portfolio Optimization](https://nbviewer.jupyter.org/gist/Hwanyy/6d51edd37a365d025df883d0ef8a4a27)
 
 ## 사용된 라이브러리들과 version (Dependencies)
 * [requirements.txt]()
